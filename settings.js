@@ -30,7 +30,7 @@ module.exports = {
         WELCOME_MESSAGE : true,
         GOODBYE_MESSAGE : true,
     },
-  DESABLE_WELCOME_GOODBYE_JIDS : [bay pacaya],
+  DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
